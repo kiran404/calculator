@@ -95,7 +95,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h2 className="text">Make your Calculation Easier</h2>
+      <h2 className="text">Calculator</h2>
 
       <div className="inner1">{displayedNum}</div>
       <div className="inner2">

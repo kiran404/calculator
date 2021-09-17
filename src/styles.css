@@ -3,12 +3,12 @@ body {
 }
 h2 {
   color: white;
-  margin-left: 40px;
+  margin-left: 28%;
 }
 .container {
   position: absolute;
   top: 30%;
-  left: 35%;
+  left: 28%;
   margin-top: -50px;
   margin-left: -50px;
   width: 50%;
